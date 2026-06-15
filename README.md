@@ -1,12 +1,22 @@
-# Hi, I'm Juan José Carranza 👋
+## About Me
 
-## Cybersecurity Graduate
-
-Cybersecurity graduate with hands-on experience in security monitoring, network analysis, system administration, and cybersecurity investigations.
+Cybersecurity graduate with hands-on experience in security monitoring, network analysis, threat detection, system administration, and cybersecurity investigations.
 
 Through academic training, industry certifications, and practical home lab projects, I have developed skills in Windows security, Linux administration, network traffic analysis, threat detection, and cybersecurity operations.
 
-I enjoy building cybersecurity labs, analyzing security events, investigating network activity, and continuously expanding my knowledge through hands-on learning and certifications.
+This portfolio showcases cybersecurity projects focused on:
+
+* Windows Security Monitoring
+* Sysmon Analysis
+* Network Traffic Analysis
+* Threat Detection
+* Security Investigations
+* Incident Investigation Methodologies
+* Wireshark Analysis
+* Nmap Enumeration
+* Defensive Security Techniques
+
+The goal of this portfolio is to demonstrate practical cybersecurity skills through hands-on investigations and real-world security scenarios commonly encountered by cybersecurity professionals.
 
 
 ## Technical Skills
