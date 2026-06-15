@@ -129,19 +129,6 @@ Repository:
 
 ---
 
-## Certifications
-
-### Current Certifications
-
-* (Add your completed certifications here)
-
-### In Progress
-
-* Microsoft Azure Fundamentals
-* AWS Cloud Practitioner (if applicable)
-
----
-
 ## Contact
 
 ### LinkedIn
