@@ -1,10 +1,13 @@
-# Juan Jose Carranza Marín - Cybersecurity Portfolio
+# Hi, I'm Juan José Carranza 👋
 
-## About Me
+## Cybersecurity Graduate
 
-Recent Cybersecurity graduate with hands-on experience in security monitoring, Windows event analysis, network traffic investigation, threat hunting, and incident investigation.
+Cybersecurity graduate with hands-on experience in security monitoring, network analysis, system administration, and cybersecurity investigations.
 
-This portfolio showcases practical cybersecurity projects developed in a home lab environment using industry-standard tools and methodologies commonly used by Security Operations Center (SOC) analysts.
+Through academic training, industry certifications, and practical home lab projects, I have developed skills in Windows security, Linux administration, network traffic analysis, threat detection, and cybersecurity operations.
+
+I enjoy building cybersecurity labs, analyzing security events, investigating network activity, and continuously expanding my knowledge through hands-on learning and certifications.
+
 
 ## Technical Skills
 
