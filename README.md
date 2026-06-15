@@ -55,7 +55,7 @@ Investigation of Windows Security Event ID 4625 to analyze authentication failur
 
 Repository:
 
-[Windows Failed Login Investigation](https://github.com/juancarranza-cyber/sysmon-process-creation-investigation)
+[Windows Failed Login Investigation](https://github.com/juancarranza-cyber/windows-failed-login-investigation)
 
 ---
 
@@ -72,7 +72,7 @@ Investigation of Sysmon Event ID 1 process creation activity, including executab
 
 Repository:
 
-[Sysmon Process Creation Investigation](LINK_HERE)
+[Sysmon Process Creation Investigation](https://github.com/juancarranza-cyber/sysmon-process-creation-investigation)
 
 ---
 
@@ -89,7 +89,7 @@ Threat hunting exercise focused on parent-child process relationships and proces
 
 Repository:
 
-[Sysmon Process Tree Investigation](LINK_HERE)
+[Sysmon Process Tree Investigation](https://github.com/juancarranza-cyber/Sysmon-Process-Tree-Investigation)
 
 ---
 
@@ -108,7 +108,7 @@ Investigation of reconnaissance activity using Nmap and Wireshark, including TCP
 
 Repository:
 
-[Nmap Network Scan Analysis](LINK_HERE)
+[Nmap Network Scan Analysis](https://github.com/juancarranza-cyber/nmap-network-scan-analysis)
 
 ---
 
@@ -125,7 +125,7 @@ Investigation of DNS traffic, including query analysis, response inspection, dom
 
 Repository:
 
-[DNS Traffic Investigation with Wireshark](LINK_HERE)
+[DNS Traffic Investigation with Wireshark](https://github.com/juancarranza-cyber/DNS-Traffic-Investigation-Wireshark)
 
 ---
 
@@ -146,12 +146,12 @@ Repository:
 
 ### LinkedIn
 
-(Add your LinkedIn URL)
+linkedin.com/in/juanjosecarranzamarin
 
 ### GitHub
 
-https://github.com/Ghostt2057
+https://github.com/juancarranza-cyber
 
 ### Email
 
-(Add your professional email)
+juanjosecm2005@gmail.com
