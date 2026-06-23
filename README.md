@@ -69,7 +69,8 @@ Privilege Management
 
 Repository:
 
-[Sysmon Process Creation Investigation](https://github.com/juancarranza-cyber/Windows-Security-Hardening-Assessment)
+[Windows Security Hardening Assessment
+](https://github.com/juancarranza-cyber/Windows-Security-Hardening-Assessment)
 
 ---
 
