@@ -55,20 +55,21 @@ The goal of this portfolio is to demonstrate practical cybersecurity skills thro
 
 ## Windows Security Monitoring
 
-### Windows Failed Login Investigation
+Windows Security Hardening Assessment
 
-Investigation of Windows Security Event ID 4625 to analyze authentication failures, identify affected accounts, review status codes, and understand failed login activity.
+Security hardening assessment focused on firewall configuration, Microsoft Defender, password policies, audit policies, local account security, and overall system security posture evaluation.
 
-**Skills Demonstrated**
+Skills Demonstrated
 
-* Windows Event Viewer
-* Event ID 4625 Analysis
-* Authentication Monitoring
-* Log Investigation
+Security Hardening
+Windows Security Assessment
+Password Policy Analysis
+Audit Policy Review
+Privilege Management
 
 Repository:
 
-[Windows Failed Login Investigation](https://github.com/juancarranza-cyber/windows-failed-login-investigation)
+[Sysmon Process Creation Investigation](https://github.com/juancarranza-cyber/Windows-Security-Hardening-Assessment)
 
 ---
 
