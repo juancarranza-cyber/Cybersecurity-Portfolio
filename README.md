@@ -144,6 +144,27 @@ Repository:
 
 ---
 
+### Vulnerability Assessment and Remediation
+
+Comprehensive vulnerability assessment performed using Nessus Essentials to identify security weaknesses, evaluate risk levels, analyze vulnerability findings, and document remediation recommendations. The assessment included detailed analysis of SMB security configurations and SSL certificate trust issues through a structured vulnerability management workflow.
+
+**Skills Demonstrated**
+
+- Vulnerability Assessment
+- Vulnerability Management
+- Nessus Essentials
+- Risk Assessment
+- Security Hardening
+- Security Analysis
+- CVSS Severity Analysis
+- Remediation Planning
+
+**Repository:**
+
+[Vulnerability Assessment and Remediation](https://github.com/juancarranza-cyber/Vulnerability-Assessment-and-Remediation)
+
+---
+
 ## Contact
 
 ### LinkedIn
