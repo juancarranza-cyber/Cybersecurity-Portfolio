@@ -181,8 +181,6 @@ juanjosecm2005@gmail.com
 
 
 
-###
-###
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=root%40portfolio%3A~%23+init;Loading+Cybersecurity+Portfolio...;Windows+%7C+Network+%7C+Threat+Hunting+%7C+Vuln+Mgmt;access_granted...)](https://git.io/typing-svg)
