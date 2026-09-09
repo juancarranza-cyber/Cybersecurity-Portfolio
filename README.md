@@ -56,7 +56,7 @@ The investigation focuses on identifying TCP connection attempts, analyzing pack
 * Network monitoring
 
 <p align="center">
-<a href="./Nmap-Network-Scan-Analysis/">
+<a href="https://github.com/juancarranza-cyber/nmap-network-scan-analysis">
 <img src="https://img.shields.io/badge/OPEN_INVESTIGATION-00FF41?style=for-the-badge&logo=github&logoColor=black&labelColor=000000" />
 </a>
 </p>
@@ -98,7 +98,7 @@ The project demonstrates how DNS traffic can provide visibility during security 
 * Evidence documentation
 
 <p align="center">
-<a href="./DNS-Traffic-Investigation/">
+<a href="https://github.com/juancarranza-cyber/DNS-Traffic-Investigation-Wireshark">
 <img src="https://img.shields.io/badge/OPEN_INVESTIGATION-00FF41?style=for-the-badge&logo=github&logoColor=black&labelColor=000000" />
 </a>
 </p>
@@ -140,7 +140,7 @@ The project focuses on log collection, KQL queries, security event analysis, det
 * SOC investigation workflow
 
 <p align="center">
-<a href="./Microsoft-Sentinel-SOC-Lab/">
+<a href="https://github.com/juancarranza-cyber/SOC-Sentinel-Lab">
 <img src="https://img.shields.io/badge/PROJECT_IN_PROGRESS-00FF41?style=for-the-badge&logo=microsoftazure&logoColor=black&labelColor=000000" />
 </a>
 </p>
@@ -157,6 +157,15 @@ The project focuses on log collection, KQL queries, security event analysis, det
 
 <div align="center">
 
+```text
+root@cybersecurity-portfolio:~$ ls projects/
 
+01  Nmap Network Scan Analysis
+02  DNS Traffic Investigation with Wireshark
+03  Microsoft Sentinel SOC Investigation Lab
 
+root@cybersecurity-portfolio:~$ _
+```
+
+</div>
 
