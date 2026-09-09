@@ -33,7 +33,7 @@ security monitoring, threat detection, and defensive investigation.
 <tr>
 <td width="100%">
 
-## 🛡️ 03 — Microsoft Sentinel SOC Investigation Lab
+## 🛡️ 01 — Microsoft Sentinel SOC Investigation Lab
 
 **Category:** SIEM / SOC Operations
 
@@ -84,7 +84,7 @@ The project focuses on log collection, KQL queries, security event analysis, det
 <tr>
 <td width="100%">
 
-## 📡 01 — Nmap Network Scan Analysis
+## 📡 02 — Nmap Network Scan Analysis
 
 **Category:** Network Security / Reconnaissance Detection
 
@@ -126,7 +126,7 @@ The investigation focuses on identifying TCP connection attempts, analyzing pack
 <tr>
 <td width="100%">
 
-## 🌐 02 — DNS Traffic Investigation with Wireshark
+## 🌐 03 — DNS Traffic Investigation with Wireshark
 
 **Category:** Network Traffic Analysis
 
