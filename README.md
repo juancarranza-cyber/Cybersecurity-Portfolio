@@ -33,6 +33,58 @@ security monitoring, threat detection, and defensive investigation.
 <tr>
 <td width="100%">
 
+## 🛡️ 03 — Microsoft Sentinel SOC Investigation Lab
+
+**Category:** SIEM / SOC Operations
+
+Hands-on SOC laboratory focused on security monitoring and investigation using **Microsoft Sentinel**.
+
+The project focuses on log collection, KQL queries, security event analysis, detection investigation, and SOC-oriented investigation workflows.
+
+### Technologies
+
+`Microsoft Sentinel` `Microsoft Azure` `KQL` `Windows` `SIEM` `Log Analysis`
+
+### Skills Demonstrated
+
+* SIEM monitoring
+* Log investigation
+* KQL analysis
+* Security event analysis
+* Incident investigation
+* Detection analysis
+* SOC investigation workflow
+
+<p align="center">
+<a href="https://github.com/juancarranza-cyber/SOC-Sentinel-Lab">
+<img src="https://img.shields.io/badge/PROJECT_IN_PROGRESS-00FF41?style=for-the-badge&logo=microsoftazure&logoColor=black&labelColor=000000" />
+</a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+
+
+</div>
+
+---
+
+<br/>
+
+<table>
+<tr>
+<td width="100%">
+
 ## 📡 01 — Nmap Network Scan Analysis
 
 **Category:** Network Security / Reconnaissance Detection
@@ -111,61 +163,4 @@ The project demonstrates how DNS traffic can provide visibility during security 
 
 ---
 
-<br/>
-
-<table>
-<tr>
-<td width="100%">
-
-## 🛡️ 03 — Microsoft Sentinel SOC Investigation Lab
-
-**Category:** SIEM / SOC Operations
-
-Hands-on SOC laboratory focused on security monitoring and investigation using **Microsoft Sentinel**.
-
-The project focuses on log collection, KQL queries, security event analysis, detection investigation, and SOC-oriented investigation workflows.
-
-### Technologies
-
-`Microsoft Sentinel` `Microsoft Azure` `KQL` `Windows` `SIEM` `Log Analysis`
-
-### Skills Demonstrated
-
-* SIEM monitoring
-* Log investigation
-* KQL analysis
-* Security event analysis
-* Incident investigation
-* Detection analysis
-* SOC investigation workflow
-
-<p align="center">
-<a href="https://github.com/juancarranza-cyber/SOC-Sentinel-Lab">
-<img src="https://img.shields.io/badge/PROJECT_IN_PROGRESS-00FF41?style=for-the-badge&logo=microsoftazure&logoColor=black&labelColor=000000" />
-</a>
-</p>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-```text
-root@cybersecurity-portfolio:~$ ls projects/
-
-01  Nmap Network Scan Analysis
-02  DNS Traffic Investigation with Wireshark
-03  Microsoft Sentinel SOC Investigation Lab
-
-root@cybersecurity-portfolio:~$ _
-```
-
-</div>
 
