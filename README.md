@@ -1,6 +1,3 @@
-<p align="center">
-<img src="https://raw.githubusercontent.com/juancarranza-cyber/juancarranza-cyber/main/matrix_rain.svg" alt="Matrix Rain" width="1100" />
-</p>
 
 <br/>
 
