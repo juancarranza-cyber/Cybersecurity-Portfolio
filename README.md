@@ -77,7 +77,6 @@ The project focuses on log collection, KQL queries, security event analysis, det
 
 </div>
 
----
 
 <br/>
 
