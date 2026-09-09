@@ -157,17 +157,6 @@ The project focuses on log collection, KQL queries, security event analysis, det
 
 <div align="center">
 
-```text
-root@cybersecurity-portfolio:~$ ls projects/
-
-01  Nmap Network Scan Analysis
-02  DNS Traffic Investigation with Wireshark
-03  Microsoft Sentinel SOC Investigation Lab
-
-root@cybersecurity-portfolio:~$ _
-```
-
-</div>
 
 
 
