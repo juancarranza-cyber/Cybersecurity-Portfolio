@@ -150,9 +150,11 @@ The project demonstrates how DNS traffic can provide visibility during security 
 
 <p align="center">
 <a href="https://github.com/juancarranza-cyber/DNS-Traffic-Investigation-Wireshark">
-<img src="https://img.shields.io/badge/OPEN_INVESTIGATION-00FF41?style=for-the-badge&logo=github&logoColor=black&labelColor=000000" />
+<img src="https://img.shields.io/badge/OPEN_INVESTIGATION-00FF41?style=for-the-badge&logo=microsoftazure&logoColor=black&labelColor=000000" />
 </a>
 </p>
+
+
 
 </td>
 </tr>
