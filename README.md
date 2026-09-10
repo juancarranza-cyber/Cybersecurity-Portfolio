@@ -103,11 +103,14 @@ The investigation focuses on identifying TCP connection attempts, analyzing pack
 * Reconnaissance detection
 * Network monitoring
 
+
 <p align="center">
 <a href="https://github.com/juancarranza-cyber/nmap-network-scan-analysis">
-<img src="https://img.shields.io/badge/OPEN_INVESTIGATION-00FF41?style=for-the-badge&logo=github&logoColor=black&labelColor=000000" />
+<img src="https://img.shields.io/badge/OPEN_INVESTIGATION-00FF41?style=for-the-badge&logo=microsoftazure&logoColor=black&labelColor=000000" />
 </a>
 </p>
+
+
 
 </td>
 </tr>
